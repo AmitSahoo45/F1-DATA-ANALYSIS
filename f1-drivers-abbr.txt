@@ -1,0 +1,26 @@
+ALB	Alexander Albon
+ALO	Fernando Alonso
+BOT	Valtteri Bottas
+DEV	Nyck de Vries
+GAS	Pierre Gasly
+GIO	Antonio Giovinazzi
+HAM	Lewis Hamilton
+HUL	Nico Hülkenberg
+KUB	Robert Kubica
+LAT	Nicholas Latifi
+LEC	Charles Leclerc
+MAG	Kevin Magnussen
+MAZ	Nikita Mazepin
+NOR	Lando Norris
+OCO	Esteban Ocon
+PER	Sergio Pérez
+PIA	Oscar Piastri
+RIC	Daniel Ricciardo
+RUS	George Russell
+SAI	Carlos Sainz Jr.
+SAR	Logan Sargeant
+SCH [a]	Mick Schumacher
+STR	Lance Stroll
+TSU	Yuki Tsunoda
+VER	Max Verstappen
+ZHO	Zhou Guanyu
